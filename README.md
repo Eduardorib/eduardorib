@@ -1,7 +1,6 @@
 ## Hi there! 👋
 
-I'm a developer with a long-standing passion for technology. As a software developer, I have solid experience in frontend and a growing interest in backend technologies, where I've been exploring and expanding my skills.
-Currently studying Python.
+I'm a developer with a long-standing passion for technology. As a software developer, I have solid experience in frontend and growing interest/experience in backend technologies, where I've been exploring and expanding my skills.
 
 ### Reach me out:
 
