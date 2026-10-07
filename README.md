@@ -1,11 +1,11 @@
 ## Hi there! 👋
 
-I'm a developer with a long-standing passion for technology. As a software developer, I have solid experience in frontend and growing interest/experience in backend technologies, where I've been exploring and expanding my skills.
+I'm a Software Developer with experience building and maintaining production applications across both backend and frontend environments.
+
+My main focus is backend development with Python and FastAPI, building REST APIs, asynchronous and event-driven systems, and working with PostgreSQL and MongoDB. I also have experience with React and Node.js, as well as technologies and practices such as Docker, Redis, RabbitMQ, JWT authentication, automated testing, CI/CD, ArgoCD, Datadog, and Google Cloud Platform (GCP).
+
+I'm currently focused on deepening my backend engineering skills, exploring cloud technologies and building reliable, scalable software.
 
 ### Reach me out:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=138d75&color:FFF)](https://www.linkedin.com/in/eduardo-ribeiro-07778a1a7/)
-
-### GitHub Stats
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Eduardorib&layout=compact&bg_color=000&border_color=138d75&title_color=138d75&text_color=FFF)
